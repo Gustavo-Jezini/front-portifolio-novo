@@ -18,7 +18,7 @@ const GlobalStyles = createGlobalStyle`
     @font-face {
       font-family: 'Poppins';
       font-style: normal;
-      font-display: swap
+      font-display: swap;
       font-weight: 400;
       src: url('/fonts/poppins-v20-latin-regular.eot'); /* IE9 Compat Modes */
       src: local(''),
