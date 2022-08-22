@@ -13,7 +13,7 @@ const experiences = [
   }
 ]
 
-const SectionTech = () => (
+const SectionExperience = () => (
   <S.Wrapper>
     <h1>Experiencias</h1>
     <S.Cards>
@@ -29,4 +29,4 @@ const SectionTech = () => (
   </S.Wrapper>
 )
 
-export default SectionTech
+export default SectionExperience
