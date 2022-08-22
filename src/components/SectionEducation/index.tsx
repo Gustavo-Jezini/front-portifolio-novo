@@ -30,6 +30,7 @@ const css = { width: '400px', height: '225px', borderRadius: '10px' }
 
 const SectionEducation = () => (
   <S.Wrapper>
+    <h1>Educação</h1>
     <S.Formations>
       {courses?.map((course) => (
         <S.CardFormation key={course.title}>
