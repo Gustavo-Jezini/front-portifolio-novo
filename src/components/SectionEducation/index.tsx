@@ -9,8 +9,8 @@ import Image from 'next/future/image';
 
 const imagesEducation = [
   Trybe_certificado,
-  // Fundamentos_trybe,
   front_trybe,
+  // Fundamentos_trybe,
   // back_trybe,
   // Ciencia_de_dados_trybe
 ];
